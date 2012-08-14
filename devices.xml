@@ -306,6 +306,24 @@
 			</repos>
 		</device>
 		<device>
+			<name>Phoenix</name>
+			<model>P505</model>
+			<image>images/devices/lge_p505.png</image>
+			<code>p505</code>
+			<repos>
+				<git name="android_device_lge_p505" />
+			</repos>
+		</device>
+		<device>
+			<name>Thirve</name>
+			<model>P506</model>
+			<image>images/devices/lge_p506.png</image>
+			<code>p506</code>
+			<repos>
+				<git name="android_device_lge_p506" />
+			</repos>
+		</device>
+		<device>
 			<name>Optimus 3D</name>
 			<model>P920</model>
 			<image>images/devices/lge_p920.png</image>
